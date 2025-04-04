@@ -1,0 +1,11 @@
+[project]
+name = "vmp-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.6.0",
+    "speakeasy-emulator>=1.5.11",
+    "triton-library>=1.0.0rc4",
+]
